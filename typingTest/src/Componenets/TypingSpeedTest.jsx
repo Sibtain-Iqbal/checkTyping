@@ -4,7 +4,10 @@ import { useContext,createContext } from "react";
 
 export const list = createContext({
     type : [
-       { name : "lust"}
+       { name : "lust",
+       number : '03239878'
+    
+    }
     ]
 })
 
