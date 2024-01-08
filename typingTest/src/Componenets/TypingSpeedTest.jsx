@@ -9,10 +9,10 @@ export const list = createContext({
     
     }
     ,
-     {
-        data : "setData",
-        
-     }
+    {
+        name : "just"
+
+    }
     ]
 })
 
