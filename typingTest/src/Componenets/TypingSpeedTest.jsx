@@ -8,6 +8,11 @@ export const list = createContext({
        number : '03239878'
     
     }
+    ,
+     {
+        data : "setData",
+        
+     }
     ]
 })
 
